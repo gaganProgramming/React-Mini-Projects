@@ -44,6 +44,14 @@
 
 A fully responsive and modern **React.js** portfolio website showcasing my **skills, projects, and services**.
 
+## Video Demo 📽️
+
+Watch the demo of Passop on YouTube:
+<a href="https://www.youtube.com/watch?v=CZzI-As6I0g" target="_blank">
+    <img src="https://img.youtube.com/vi/CZzI-As6I0g/0.jpg" width="800" height="400">
+</a>
+
+
 ## 🔥 Features
 
 - 🎨 **Responsive Design** – Styled with CSS and `@media()` queries.

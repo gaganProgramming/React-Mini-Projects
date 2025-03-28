@@ -48,7 +48,7 @@ A fully responsive and modern **React.js** portfolio website showcasing my **ski
 
 Watch the demo of Passop on YouTube:
 <a href="https://www.youtube.com/watch?v=CZzI-As6I0g" target="_blank">
-    <img src="https://img.youtube.com/vi/CZzI-As6I0g/0.jpg" width="800" height="400">
+    <img src="./portfolio.png" width="800" height="400">
 </a>
 
 

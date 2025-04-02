@@ -7,7 +7,7 @@ A simple **React-based** expense tracker that helps you monitor income and expen
 
 ## Video Demo 📽️
 
-Watch the demo of Passop on YouTube:
+Watch the demo of Expense Tracker on YouTube:
 <a href="https://youtu.be/nZixoh50PoU" target="_blank">
     <img src="./image.png" width="800" height="400">
 </a>

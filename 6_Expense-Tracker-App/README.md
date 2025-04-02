@@ -1,5 +1,5 @@
 ### **README.md**
-```md
+
 # 💰 Expense Tracker App  
 
 A simple **React-based** expense tracker that helps you monitor income and expenses effectively.
@@ -81,4 +81,3 @@ Pull requests are welcome! Feel free to fork the project and contribute.
 ## **📜 License**
 This project is licensed under the **MIT License**.
 
----
